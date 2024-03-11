@@ -1,5 +1,6 @@
 
 <img style="margin: 3rem 0" src="https://github.com/AndreazzaRiccardo/devvery-frontend/assets/136316597/e5d24fbf-3528-4a08-94ee-cc6270cc45dd" />
+<br/>
 
 <p style="font-weight: bolder">Let me introduce you to Devvery, the delivery app developed in collaboration with my team. Its captivating design and ease of use make it a perfect example of how a similar project could be realized.</p>
 <p>As we can see, the homepage is elegant and dynamic, with a style that evokes the desire to eat.</p>
