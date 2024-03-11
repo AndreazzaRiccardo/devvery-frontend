@@ -1,0 +1,26 @@
+{
+  "name": "devvery-final-project-front-office",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 4242",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "axios": "^1.6.7",
+    "bootstrap": "^5.3.3",
+    "vue": "^3.4.19",
+    "vue-braintree": "^2.1.0",
+    "vue-router": "^4.3.0",
+    "vue3-carousel": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/braintree-web-drop-in": "^1.39.3",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "vite": "^5.1.4"
+  }
+}
