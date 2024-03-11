@@ -81,7 +81,7 @@ export default {
 <template>
   <div class="container">
     <div id="title" class="text-center">
-      <p class="fw-semibold mb-0">Il cibo che vuoi, quando vuoi...</p>
+      <p class="fw-semibold mb-0">Il cibo che vuoi, dove e quando vuoi...</p>
     </div>
     <div class="d-flex justify-content-center mt-5" v-if="store.checkedTypes.length === 0">
       <div class="input-group w-75 ms_width">
